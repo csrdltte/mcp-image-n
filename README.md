@@ -3,7 +3,7 @@
 
 An MCP (Model Context Protocol) server for image conversion using ImageMagick
 
-# Based on
+### Based on
 
 [AeyeOps/mcp-imagemagick](https://github.com/AeyeOps/mcp-imagemagick)
 
