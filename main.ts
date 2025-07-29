@@ -8,6 +8,8 @@ import { exec } from 'child_process'
 // 1. Crear el servidor MCP
 // el servidor es la interfaz principal con el protocolo MCP. Maneja la comunicación y la lógica de negocio.
 
+
+
 const server = new McpServer({
   name: 'mcpImageN',
   version: '1.0.0',
