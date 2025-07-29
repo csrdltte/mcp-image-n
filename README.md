@@ -1,7 +1,7 @@
 
 # mcp-image-n
 
-An MCP (Model Context Protocol) server for image conversion using ImageMagick
+An MCP (Model Context Protocol) server for image operations using ImageMagick
 
 ### Inspired on
 
