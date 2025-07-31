@@ -1,0 +1,28 @@
+{
+  "name": "mcp-image-n",
+  "version": "1.0.0",
+  "description": "An MCP (Model Context Protocol) server for image operations using ImageMagick",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csrdltte/mcp-image-n.git"
+  },
+  "author": "csrdltte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csrdltte/mcp-image-n/issues"
+  },
+  "homepage": "https://github.com/csrdltte/mcp-image-n#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "child_process": "^1.0.2",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  }
+}
